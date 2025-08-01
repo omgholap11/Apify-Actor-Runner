@@ -314,6 +314,6 @@ This project is licensed under the ISC License - see the package.json files for 
 
 **Om Gholap**
 - Email: omgholap051@gmail.com
-- GitHub: omgholp11
+- GitHub: omgholap11
 
 ---
